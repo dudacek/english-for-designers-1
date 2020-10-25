@@ -1,1 +1,8 @@
+# About my experience
+I'm from Prague and I was born here. Capital city of Czech Republic. This small state is situate in center of Europe. One part of my family is from Slovakia. I love traveling. I wish I could traveling around the world. I have many kind of hobbies. Like sports, music, art and book. Caffe is my breakfast routine. I prefer things that looks good and must be useful. This same preferences have graphic design. Be useful and have good design. 
 
+Sometimes I do a design that is creative and experimentation. Creative also with new thinking, new meaning. Sometimes I don't know what I'm doing and exactly testing. Experimentation with colors, form and structures. Everything must have make a sense.
+
+I believe that graphic design is most useful type of creativity. You could use lots of tool that makes good design. Gives a new perspective. "How could you looking at digital world or make everything easily." Graphic design helps to understand a ordinary things easy. For example, bold typography take parts of article more importance. 
+
+I would like to do graphic design in graphic studio with team. I know that I need more experience for my future career. I interested in motion design. It's one type of digital design that is everywhere now. Likewise, I like design interior. That's another type of design but in real time, I think. You should keep some specific rules. Like three colors, not more. And there is important keep a style of character materials. Some materials have specific structures, color and strength. Information design is most useful design, I guess. It's everything around us. For instance, traffic information system, advertising, modern technology, etc. Complete these type of design is "What i want to do".
