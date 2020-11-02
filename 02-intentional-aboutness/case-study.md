@@ -15,14 +15,25 @@ This type of visual contents inspired by DeepDream from Google. It's type of cre
 
 I used a same RGB colouring as similar as project before. But structure is different. The first type of planets have a structure created by DeepDream. Plus there are composed a oval planets to on it. The second type of planets have a structure from rock "Pallasite" take on the background of planets. Those projects are connected with Adastra name. Ad Astra from originally called meaning the something connection with space. In fact, Ad Astra meaning "To the stars".
 
- <img alt = "Alt text goes." src= "structure-01.png">
+<img alt = "Alt text goes." src= "structure-01.png">
 
- <img alt = "Alt text goes." src= "bag-plan-01.png"> 
+<img alt = "Alt text goes." src= "bag-plan-01.png"> 
  
- <img alt = "Alt text goes." src= "Blockpen-planet-01.jpg"> 
+<img alt = "Alt text goes." src= "Blockpen-planet-01.jpg"> 
   
- <img alt = "Alt text goes." src= "bag-structure-02.jpg"> 
+<img alt = "Alt text goes." src= "bag-structure-02.jpg"> 
  
- <img alt = "Alt text goes." src= "cup-planet-03.jpg"> 
+<img alt = "Alt text goes." src= "cup-planet-03.jpg"> 
  
+ ### Inspiration materials
+ ##### Pallasite
  
+ <img alt = "Alt text goes." src= "Pallasite_004.jpg"> 
+ 
+ ##### DeepDream
+ 
+  <img alt = "Alt text goes." src= "deepdream-google.jpg"> 
+  
+  ### Finish artwork
+
+  
