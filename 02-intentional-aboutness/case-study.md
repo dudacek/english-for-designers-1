@@ -32,8 +32,19 @@ I used a same RGB colouring as similar as project before. But structure is diffe
  
  ##### DeepDream
  
-  <img alt = "Alt text goes." src= "deepdream-google.jpg"> 
+<img alt = "Alt text goes." src= "deepdream-google.jpg"> 
   
   ### Finish artwork
 
+ <img alt = "Alt text goes." src= "block-cyborg.png"> 
+ 
+ <img alt = "Alt text goes." src= "cup-cyborg.png"> 
   
+ <img alt = "Alt text goes." src= "cup-planets.png"> 
+ 
+ <img alt = "Alt text goes." src= "cyborg-bag.png"> 
+ 
+ <img alt = "Alt text goes." src= "planets-bag.png"> 
+  
+  
+    
