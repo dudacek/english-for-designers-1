@@ -11,4 +11,6 @@ I did a strong visual design. Inspiration I founded in rock called Pallasite tha
  <img alt = "Alt text goes." src= "powerb-robot.jpg"> 
  
 #### It's about planets and space
-This type of visual contents are inspired by DeepDream from Google. It's type of creating by google picture. This type of creativity is consist of pictures from google pictures created by AI. Google gives a one of the picture and than it duplicate the part of them. And it had created unbelieveble structure from the parts of picture.
+This type of visual contents inspired by DeepDream from Google. It's type of creating by google picture. This type of creativity is consist of pictures from google pictures created by AI. Google gives a one of the picture and than it duplicate the part of them. And it had created unbelieveble structure from the parts of picture.
+
+I used a same RGB colouring as similar as project before. 
