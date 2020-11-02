@@ -5,5 +5,5 @@ On high school I tried to made some graphic collage from my artwork in Adobe pho
 In fact, I never do graphic design like that before. I'm opened to learn a new things. 
 I was meet with Adobe programs like Indesign, Illustrator, XD and so on.
 I learned "How to make a magazine?" and "How I do a prototype of the application?". 
-And sometimes I spend time with my new friends from school. 
+And sometimes I spend time with my new friends from school. I am friendly person.
 We are did some school projects in the group.
