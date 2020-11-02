@@ -5,7 +5,7 @@ Adastra had asked for a packaging design for gift things of the company. They wa
 ### Meaning
 I did a strong visual design. Inspiration I founded in rock called Pallasite that create a background of main design. The first project is inspired by cyborg. Adastra create and working with artificial intelligence, UX and UI design, comunication network, social media and so on. The cyborg to represent a comunication between people. The second project is the same theme but I drew a robot.
 
- <img alt = "Alt text goes." src= "cup:head.jpg"> 
+ <img alt = "Alt text goes." src= "cup-cyborg.jpg"> 
  
- <img alt = "Alt text goes." src= "power:rob.jpg"> 
+ <img alt = "Alt text goes." src= "powerb-robot.jpg"> 
  
