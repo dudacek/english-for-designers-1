@@ -14,7 +14,7 @@ I did a strong visual design. Inspiration I founded in rock called Pallasite. Th
 #### It's about planets and DeepDream
 This type of visual contents inspired by DeepDream from Google. It's type of creating by google picture. This type of creativity is consist of pictures from google pictures created by AI. Google gives a one of the picture and than it duplicate the part of them. And it had created unbelieveble structure from the parts of picture.
 
-I used a same RGB colouring as similar as project before. But structure is different. The first type of planets have a structure created by DeepDream. Plus there are composed a oval planets to on it. The second type of planets have a structure from rock "Pallasite" take on the background of planets. Those projects are connected with Adastra name. Ad Astra from originally called meaning the something connection with space. In fact, Ad Astra meaning "To the stars".
+I used a same RGB colouring as similar as project before. But structure is different. The first type of planets have a structure created by DeepDream. Plus there composed a oval planets to on it. The second type of planets have a structure from rock "Pallasite" take on the background of planets. Those projects connected with Adastra name. Ad Astra from originally called meaning the something connection with space. In fact, Ad Astra meaning "To the stars".
 
 <img alt = "Alt text goes." src= "structure-01.png">
 
