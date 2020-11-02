@@ -46,5 +46,5 @@ I used a same RGB colouring as similar as project before. But structure is diffe
  
  <img alt = "Alt text goes." src= "planets-bag.png"> 
   
-  
-    
+  ## I about project
+  I enjoy this project because i could used a lots of creativity, new techniques and new information about. One of the most interesting project that i made.
